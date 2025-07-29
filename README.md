@@ -1,4 +1,4 @@
-# Decoding Safflower Biochemical Blueprint: Machine Learning Unveils Geography-Specific Nutrient Signatures
+# ML_Zhao.2025
 
 This repository includes the visualized and machine learning codes of this paper.
 
